@@ -1,0 +1,23 @@
+{
+  "name": "vtl-parse-loader",
+  "version": "0.0.2",
+  "description": "webpack loader for parse *.vtl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grARM/vtl-parse-loader.git"
+  },
+  "author": "grARM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grARM/vtl-parse-loader/issues"
+  },
+  "homepage": "https://github.com/grARM/vtl-parse-loader",
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "velocityjs": "^0.9.6"
+  }
+}
